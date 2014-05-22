@@ -5,13 +5,13 @@ Servidor
 	Carlos Alberto
 	Jonas
 	Gevaldo
-	Beatriz
 	Cleiton
 	Jean
 	Maioli
 	Renato
 
 Cliente
+	Beatriz
 	Rodrigo
 	Jaime
 	Romario
