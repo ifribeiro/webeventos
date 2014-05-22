@@ -1,26 +1,25 @@
 Servidor
-	Gabriel
-	Mauricio
-	Iran
-	Carlos Alberto
-	Jonas
-	Gevaldo
-	Cleiton
-	Jean
-	Maioli
-	Renato
+	Gabriel - diasGabriel
+	Mauricio - mauriciocordeiro
+	Iran - ifribeiro
+	Carlos Alberto - albertocarlos221
+	Jonas - JonasCesar
+	Gevaldo - gevaldodias
+	Cleiton - cleitongalvao
+	Jean - JeanLs1
+	Maioli - mai0li
+	Renato - renatosb
 
 Cliente
-	Beatriz
-	Rodrigo
-	Jaime
-	Romario
-	Gilberto
-	Lucas
-	Juliane
-	Isac
-	Jesse
-	Matheus Coqueiro
-	Rafael
+	Rodrigo - rodrig0lima
+	Jaime - jaimefreiredesouza
+	Romario - Romario6
+	Gilberto - gilbertoportojr
+	Lucas - ldamaral
+	Juliane - Julli
+	Isac - isacbr
+	Jesse - jesseaf
+	Matheus Coqueiro - mastercoks
+	Rafael - Rafiski
 	Leon
-	
+	Beatriz - beatrizolivaqb
